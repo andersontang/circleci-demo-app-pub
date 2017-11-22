@@ -1,6 +1,6 @@
 <?php
 
-$AppName = "Updated Demo App";
+$AppName = HII"Updated Demo App";
 
 ob_start();
 
